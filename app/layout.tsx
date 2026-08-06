@@ -6,7 +6,7 @@ import "./globals.css";
 export const metadata: Metadata = {
     title: "T1D World Updates",
     description: "Recent Type 1 diabetes research and clinical trial updates.",
-    icons: { icon: "/t1d-ribbon.png", }
+    icons: { icon: "/t1d-ribbon.webp", }
 };
 
 export default function RootLayout({
